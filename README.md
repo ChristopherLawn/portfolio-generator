@@ -29,7 +29,6 @@ P2G enables current and aspiring developers to create a simple, sleek, and profe
 7. Publish your completed portfolio using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
 ## Sample Portfolio Screenshot
-
 ![sample portfolio screenshot](./assets/SamplePortfolio.png)
 
 ## License
