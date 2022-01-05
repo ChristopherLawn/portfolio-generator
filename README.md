@@ -19,18 +19,18 @@ P2G enables current and aspiring developers to create a simple, sleek, and profe
 ## Installation
 
 1. Download & install [Node.js](https://nodejs.org/en/download/) onto your local computer or server.
-*If Node is already installed on your machine, you can skip this step!*
+***If Node is already installed on your machine, you can skip this step!***
 2. Clone the [GitHub repository](https://github.com/ChristopherLawn/portfolio-generator) to your local projects folder.
 3. Open the Git Bash terminal and navigate to the root directory of your cloned repository project folder.
 4. Once inside the root directory in Bash, enter the command 'node app'
 5. Answer the series of questions and prompts.  While the 'About Me' section and adding additional projets beyond the initial project are optional, adding both are highly encouraged to help users stand out from their peers!
-*NOTE: All user-input answers are case-sensitive, so it is recommended that you check for spelling and grammar errors prior to submitting each answer!* 
+***NOTE: All user-input answers are case-sensitive, so it is recommended that you check for spelling and grammar errors prior to submitting each answer!*** 
 6. The dynamically-created HTML & CSS files will be written to the 'dist' folder inside your repository folder
 7. Publish your completed portfolio using [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
 
 ## Sample Portfolio Screenshot
 
-![sample portfolio screenshot](/assets/images/SamplePortfolio.png)
+![sample portfolio screenshot](/assets/SamplePortfolio.png)
 
 ## License
 
