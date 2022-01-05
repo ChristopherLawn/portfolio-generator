@@ -30,7 +30,7 @@ P2G enables current and aspiring developers to create a simple, sleek, and profe
 
 ## Sample Portfolio Screenshot
 
-![sample portfolio screenshot](./assets/SamplePortfolio.png)
+![sample-portfolio-screenshot](/assets/SamplePortfolio.png)
 
 ## License
 
